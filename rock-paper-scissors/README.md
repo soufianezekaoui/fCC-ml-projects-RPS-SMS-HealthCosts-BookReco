@@ -15,7 +15,7 @@ This project implements a Rock-Paper-Scissors game with a strategy-based AI oppo
 
 The following diagram illustrates the logic and flow of the project:
 
-![Project Architecture](../assets/RPS_algorithm_flow.png)
+![Project Architecture](./RPS_algorithm_flow.png)
 
 ## How It Works
 
@@ -48,7 +48,7 @@ python main.py
 
 Below is an example of the test results:
 
-![Test Results](../assets/RPS_TestResult.png)
+![Test Results](./RPS_TestResult.png)
 
 ## Requirements
 
