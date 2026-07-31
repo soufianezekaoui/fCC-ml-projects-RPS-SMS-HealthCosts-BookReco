@@ -77,14 +77,14 @@ The model was trained for **300 epochs** and evaluated on a validation set. Belo
 ## 🧩 Example Predictions
 
 Here are some example predictions made by the model:
-<div align="center">
+
 | **Message**                                                   | **Prediction** |
 |---------------------------------------------------------------|----------------|
 | "how are you doing today"                                     | ham            |
 | "sale today! to stop texts call 98912460324"                  | spam           |
 | "you have won £1000 cash! call to claim your prize."          | spam           |
 | "i'll bring it tomorrow. don't forget the milk."              | ham            |
-</div>
+
 ---
 
 ## 🛠️ Installation and Usage
