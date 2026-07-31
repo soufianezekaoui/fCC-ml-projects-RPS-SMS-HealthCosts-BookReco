@@ -77,14 +77,14 @@ The model was trained for **300 epochs** and evaluated on a validation set. Belo
 ## 🧩 Example Predictions
 
 Here are some example predictions made by the model:
-
+<div align="center">
 | **Message**                                                   | **Prediction** |
 |---------------------------------------------------------------|----------------|
 | "how are you doing today"                                     | ham            |
 | "sale today! to stop texts call 98912460324"                  | spam           |
 | "you have won £1000 cash! call to claim your prize."          | spam           |
 | "i'll bring it tomorrow. don't forget the milk."              | ham            |
-
+</div>
 ---
 
 ## 🛠️ Installation and Usage
@@ -126,4 +126,25 @@ Here are some example predictions made by the model:
 ---
 
 ## 📜 License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/soufianezekaoui/fCC-ml-projects-RPS-SMS-HealthCosts-BookReco/blob/rock-paper-scissors/LICENSE) file for details.
+
+## 🙏 Acknowledgments
+
+- **freeCodeCamp**      - For the amazing Machine Learning curriculum
+
+## 👨‍💻 Author
+
+**Soufiane ZEKAOUI**
+- GitHub: [@soufianezekaoui](https://github.com/soufianezekaoui)
+- LinkedIn: [Soufiane Zekaoui](https://linkedin.com/in/soufiane-zekaoui-445b1b352/)
+- Portfolio: [My-Personal-Website](https://soufianezekaoui.github.io/my_soufianeze_portfolio/)
+
+---
+
+<div align="center">
+
+**Built with ❤️ for the freeCodeCamp Machine Learning with Python Certification**
+
+⭐ Star this repo if you found it helpful!
+
+</div>
