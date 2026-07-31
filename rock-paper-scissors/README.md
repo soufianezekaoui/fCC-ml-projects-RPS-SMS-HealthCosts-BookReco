@@ -58,9 +58,10 @@ Below is an example of the test results:
 
 Contributions are welcome! Feel free to open issues or submit pull requests.
 
-## License
+---
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+## 📜 License
+This project is licensed under the MIT License. See the [LICENSE](https://github.com/soufianezekaoui/fCC-ml-projects-RPS-SMS-HealthCosts-BookReco/blob/rock-paper-scissors/LICENSE) file for details.
 
 ## 🙏 Acknowledgments
 
@@ -75,6 +76,10 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 ---
 
+<div align="center">
+
 **Built with ❤️ for the freeCodeCamp Machine Learning with Python Certification**
 
 ⭐ Star this repo if you found it helpful!
+
+</div>
